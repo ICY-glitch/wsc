@@ -11,10 +11,12 @@
             "id": "6dc1192eddc658af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "[1] - world scholars cup/Group (B, V, B)/Balázs"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Balázs"
             }
           }
         ]
