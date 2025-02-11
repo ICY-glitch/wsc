@@ -11,14 +11,12 @@
             "id": "6dc1192eddc658af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "[1] - world scholars cup/info.md",
-                "mode": "source",
-                "source": false
+                "path": "[1] - world scholars cup/Group (Z, D, M)/Zalán"
               },
               "icon": "lucide-file",
-              "title": "info"
+              "title": "Zalán"
             }
           }
         ]
@@ -176,9 +174,9 @@
   },
   "active": "6dc1192eddc658af",
   "lastOpenFiles": [
+    "[1] - world scholars cup/info.md",
     "Excalidraw1",
     "//Excalidraw1",
-    "[1] - world scholars cup/info.md",
     "wsc",
     "worldscholarscup",
     "[1] - world scholars cup/ template .md",
@@ -198,7 +196,6 @@
     "[1] - world scholars cup/[] - info/The Best is Yet to Be, or Not To Be.md",
     "[1] - world scholars cup/[] - info/In Futurity, Someone Prophetic Sees.md",
     "[1] - world scholars cup/Group (B, V, B)/Group (B, V, B).md",
-    "[1] - world scholars cup/Group (B, V, B)",
     "[1] - world scholars cup/Group (Z, D, M)/Group (Z, D, M).md",
     "[1] - world scholars cup/[] - info/[] - info.md",
     "[1] - world scholars cup/[] - info/Much Excite, Much Ignite.md",
