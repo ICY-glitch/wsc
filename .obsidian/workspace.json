@@ -11,12 +11,14 @@
             "id": "6dc1192eddc658af",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "[1] - world scholars cup/Group (Z, D, M)/Zalán"
+                "file": "[1] - world scholars cup/Group (B, V, B)/Bálint/In futurity, Someone Prophetic Sees.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Zalán"
+              "title": "In futurity, Someone Prophetic Sees"
             }
           }
         ]
@@ -172,9 +174,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6dc1192eddc658af",
+  "active": "49e34d57446bbc74",
   "lastOpenFiles": [
+    "New folder",
     "[1] - world scholars cup/info.md",
+    "[1] - world scholars cup/Group (B, V, B)/Bálint/In futurity, Someone Prophetic Sees.md",
     "Excalidraw1",
     "//Excalidraw1",
     "wsc",
@@ -207,7 +211,6 @@
     "[1] - world scholars cup/[] - info/The Future Wasn’t Meant to Be.md",
     "Excalidraw/Drawing 2025-02-09 18.12.39.excalidraw.md",
     "Vault.md",
-    "[1] - world scholars cup/[1] - world scholars cup.md",
-    "[1] - SCHOOL/Magyar/Magyar.md"
+    "[1] - world scholars cup/[1] - world scholars cup.md"
   ]
 }
