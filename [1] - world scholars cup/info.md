@@ -14,17 +14,17 @@ verseny [weboldala](https://scholarscup.org/subjects/2025/guiding-2025/)
 
 video : [link](https://www.youtube.com/watch?v=Kn9kPLzh9no&t=460s)
 
+btw ha valaki szeretne meg obsidiannal csinalni akkor: https://github.com/ICY-glitch/wsc
 
 
-
-| questions                                      | Zalán                   | Dávid                   | Marcell                 | ----- | Balázs                  | Vidi                    | Bálint                  |
-| ---------------------------------------------- | ----------------------- | ----------------------- | ----------------------- | ----- | ----------------------- | ----------------------- | ----------------------- |
-| The Best is Yet to Be, or Not To Be?           | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |       | 1                       | <input type="checkbox"> | <input type="checkbox"> |
-| In Futurity, Someone Prophetic Sees            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| The Future Wasn’t Meant to Be                  | <input type="checkbox"> | 1                       | <input type="checkbox"> |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| If At First You Fall, Try, Try Again           | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |       | <input type="checkbox"> | 1                       | <input type="checkbox"> |
-| Things Really Do Catch Fire                    | 1                       | <input type="checkbox"> | <input type="checkbox"> |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| Speeches that Inspire, Speeches that Spit Fire | 1                       | <input type="checkbox"> | <input type="checkbox"> |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| Reliving It Up                                 | 1                       | <input type="checkbox"> | <input type="checkbox"> |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| Entertaining Ourselves Back to Life            | <input type="checkbox"> | <input type="checkbox"> | 1                       |       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| Much Excite, Much Ignite                       | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |       | 1                       | <input type="checkbox"> | <input type="checkbox"> |
+| questions                                      | Zalán | Dávid | Marcell | ----- | Balázs | Vidi | Bálint |
+| ---------------------------------------------- | ----- | ----- | ------- | ----- | ------ | ---- | ------ |
+| The Best is Yet to Be, or Not To Be?           |       |       |         |       | 1      |      |        |
+| In Futurity, Someone Prophetic Sees            |       |       |         |       |        |      | 1      |
+| The Future Wasn’t Meant to Be                  |       | 1     |         |       |        |      |        |
+| If At First You Fall, Try, Try Again           |       |       |         |       |        | 1    |        |
+| Things Really Do Catch Fire                    | 1     |       |         |       |        |      |        |
+| Speeches that Inspire, Speeches that Spit Fire | 1     |       |         |       |        |      |        |
+| Reliving It Up                                 | 1     |       |         |       |        |      |        |
+| Entertaining Ourselves Back to Life            |       |       | 1       |       |        |      |        |
+| Much Excite, Much Ignite                       |       |       |         |       | 1      |      |        |
