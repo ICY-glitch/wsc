@@ -24,7 +24,7 @@ btw ha valaki szeretne meg obsidiannal csinalni akkor: https://github.com/ICY-gl
 | The Future Wasn’t Meant to Be                  |       | 1     |         |       |        |      |        |
 | If At First You Fall, Try, Try Again           |       |       |         |       |        | 1    |        |
 | Things Really Do Catch Fire                    | 1     |       |         |       |        |      |        |
-| Speeches that Inspire, Speeches that Spit Fire | 1     |       |         |       |        |      |        |
+| Speeches that Inspire, Speeches that Spit Fire |       |       |         |       |        |      | 1      |
 | Reliving It Up                                 | 1     |       |         |       |        |      |        |
 | Entertaining Ourselves Back to Life            |       |       | 1       |       |        |      |        |
 | Much Excite, Much Ignite                       |       |       |         |       | 1      |      |        |
