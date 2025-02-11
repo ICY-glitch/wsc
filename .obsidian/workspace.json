@@ -11,12 +11,14 @@
             "id": "6dc1192eddc658af",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "[1] - world scholars cup/Group (B, V, B)/Balázs"
+                "file": "[1] - world scholars cup/info.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Balázs"
+              "title": "info"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "c3b32efbbfd5c753",
+            "id": "49e34d57446bbc74",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -172,7 +174,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c3b32efbbfd5c753",
+  "active": "6dc1192eddc658af",
   "lastOpenFiles": [
     "Excalidraw1",
     "//Excalidraw1",
